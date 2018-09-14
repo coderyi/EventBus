@@ -1,6 +1,7 @@
 EventBus是一种发布/订阅模式的框架，主要用于解耦。可以看一下[greenrobot](https://github.com/greenrobot/EventBus)的图
 
-![](https://github.com/greenrobot/EventBus/raw/master/EventBus-Publish-Subscribe.png)
+<br/>
+<img src="https://github.com/greenrobot/EventBus/raw/master/EventBus-Publish-Subscribe.png" width="500" height="187"/>
 
 EventBus的优点是基本没有依赖关系，module间通信只需要知道事件名字就可以，是我个人比较推荐的。
 
