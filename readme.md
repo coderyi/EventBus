@@ -1,4 +1,4 @@
-EventBus是一种发布/订阅模式的框架，主要用于解耦。可以看一下greenrobot的图
+EventBus是一种发布/订阅模式的框架，主要用于解耦。可以看一下[greenrobot](https://github.com/greenrobot/EventBus)的图
 
 ![](https://github.com/greenrobot/EventBus/raw/master/EventBus-Publish-Subscribe.png)
 
